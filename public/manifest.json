@@ -1,0 +1,6 @@
+{
+  "short_name": "file-upload-function-demo",
+  "name": "Upload files to azure functions",
+  "start_url": ".",
+  "display": "standalone"
+}
